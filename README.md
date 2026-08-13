@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="docs/imgs/light.jpg" alt="AutoRound Overview" width="20%">
+  <img src="docs/imgs/light-border.jpg" alt="AutoRound Overview" width="20%">
 </p>
 
 
